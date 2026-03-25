@@ -1,0 +1,47 @@
+software engineer  
+backend developer  
+frontend developer  
+full stack developer  
+web developer  
+mobile app developer  
+ios developer  
+android developer  
+game developer  
+data scientist  
+data analyst  
+machine learning engineer  
+ai engineer  
+devops engineer  
+site reliability engineer  
+cloud engineer  
+systems administrator  
+network engineer  
+cybersecurity analyst  
+penetration tester  
+database administrator  
+software tester  
+qa engineer  
+it support specialist  
+help desk technician  
+technical support engineer  
+solutions architect  
+enterprise architect  
+product manager (tech)  
+technical project manager  
+ui designer  
+ux designer  
+ui ux designer  
+business analyst (it)  
+scrum master  
+blockchain developer  
+embedded systems engineer  
+firmware engineer  
+robotics engineer  
+computer vision engineer  
+nlp engineer  
+big data engineer  
+etl developer  
+data engineer  
+security engineer  
+identity and access management specialist  
+it auditor
